@@ -1,0 +1,9 @@
+/* Before creating the "chart.bar.fill" style */
+.bar {
+  fill: blue;
+}
+
+/* After creating the "chart.bar.fill" style */
+.chart.bar.fill {
+  fill: green;
+}
